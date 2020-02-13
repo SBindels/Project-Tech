@@ -1,0 +1,11 @@
+{
+  "name": "hello_world_package",
+  "version": "1.0.0",
+  "description": "package voor hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sjoerd bindels",
+  "license": "ISC"
+}
